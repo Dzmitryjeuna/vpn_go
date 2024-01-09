@@ -502,9 +502,9 @@ body {
     bottom: 20px;
   }
 
-  .header__img {
+  /* .header__img {
     bottom: -14%;
-  }
+  } */
 
   .edge__text {
     position: absolute;
@@ -631,13 +631,13 @@ body {
     left: 0;
   }
 
-    .header__img {
+    /* .header__img {
     bottom: -17px;
-  }
-
-  /* .header__img {
-    bottom: -37px;
   } */
+
+  .header__img {
+    bottom: -37px;
+  }
 
   .header__box:nth-child(1) {
     display: none;
